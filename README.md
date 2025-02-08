@@ -34,18 +34,7 @@ This project implements an attendance management system based on face recognitio
 - You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
 - `Manually Fill Attendance` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
 
-### Screenshots
 
-### Basic UI
-<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20221747.png">
-
-### When it Recognises me
-<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20221811.png">
-
-### While filling automatic attendance
-<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20222511.png">
-
-<img src="https://github.com/atul21mangla/Face-Recognition-Attendance_system/blob/e346794f91c9eff2d675ede234d39db581b3e7a1/images/Screenshot%202025-01-11%20222754.png">
 
 
 ### Troubleshooting
